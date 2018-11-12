@@ -1,0 +1,8 @@
+{
+  "name": "Vue-Desktop-Starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Shyam-Chen/Vue-Desktop-Starter.git",
+  "author": "Shyam Chen <shyamchen1994@gmail.com>",
+  "license": "MIT"
+}
