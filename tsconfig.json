@@ -4,6 +4,7 @@
     "declaration": true,
     "noImplicitAny": false,
     "removeComments": true,
+    "noEmit": true,
     "noLib": false,
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
