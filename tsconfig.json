@@ -1,10 +1,13 @@
 {
   "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "~/*": ["src/*"]
+    },
     "module": "commonjs",
     "declaration": true,
     "noImplicitAny": false,
     "removeComments": true,
-    "noEmit": true,
     "noLib": false,
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
@@ -12,10 +15,7 @@
     "experimentalDecorators": true,
     "target": "es6",
     "sourceMap": true,
-    "outDir": "./dist",
-    "baseUrl": "./"
+    "outDir": "./dist"
   },
-  "exclude": [
-    "node_modules"
-  ]
+  "exclude": ["node_modules"]
 }

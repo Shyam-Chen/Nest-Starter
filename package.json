@@ -16,17 +16,19 @@
   "author": "Shyam Chen",
   "license": "MIT",
   "dependencies": {
-    "@nestjs/common": "^6.1.1",
-    "@nestjs/core": "^6.1.1",
-    "@nestjs/platform-express": "^6.1.1",
-    "@nestjs/platform-socket.io": "^6.1.1",
-    "@nestjs/websockets": "^6.1.1",
-    "helmet": "^3.16.0",
+    "@nestjs/common": "^6.5.3",
+    "@nestjs/core": "^6.5.3",
+    "@nestjs/mongoose": "^6.1.2",
+    "@nestjs/platform-express": "^6.5.3",
+    "@nestjs/platform-socket.io": "^6.5.3",
+    "@nestjs/websockets": "^6.5.3",
+    "helmet": "^3.20.0",
+    "mongoose": "^5.6.10",
     "reflect-metadata": "^0.1.13",
-    "rxjs": "^6.5.1"
+    "rxjs": "^6.5.2"
   },
   "devDependencies": {
-    "@nestjs/testing": "^6.1.1",
+    "@nestjs/testing": "^6.5.3",
     "@types/jest": "^24.0.11",
     "@types/node": "^11.13.7",
     "codecov": "^3.2.0",
