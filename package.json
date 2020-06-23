@@ -23,7 +23,7 @@
     "@nestjs/platform-socket.io": "^7.2.0",
     "@nestjs/websockets": "^7.2.0",
     "helmet": "^3.20.0",
-    "mongoose": "^5.6.10",
+    "mongoose": "^5.7.5",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^6.5.2"
   },
