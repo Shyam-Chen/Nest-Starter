@@ -20,8 +20,10 @@ $ yarn install
 3. Start a local server
 
 ```bash
-$ yarn start
+$ yarn serve
 ```
+
+Visit [http://localhost:3000/hello-world](http://localhost:3000/hello-world)
 
 4. Compile and bundle code
 
