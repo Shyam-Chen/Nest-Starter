@@ -1,4 +1,4 @@
-# Nest Play
+# Nest Starter
 
 ## Getting Started
 
@@ -7,7 +7,7 @@ Follow steps to execute this boilerplate.
 1. Clone this boilerplate
 
 ```bash
-$ git clone --depth 1 https://github.com/Shyam-Chen/Nest-Play.git <PROJECT_NAME>
+$ git clone --depth 1 https://github.com/Shyam-Chen/Nest-Starter.git <PROJECT_NAME>
 $ cd <PROJECT_NAME>
 ```
 
@@ -40,5 +40,7 @@ $ yarn lint
 6. Runs unit tests
 
 ```bash
-$ yarn test
+$ yarn unit
 ```
+
+7.
